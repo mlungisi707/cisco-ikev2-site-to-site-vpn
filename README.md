@@ -83,5 +83,5 @@ Running traffic across the endpoints confirms data packets are actively hitting 
 ```text
 HQ-Router# show crypto ipsec sa
 ```
-![IPsec Phase 2 Counters](./Ipsec_Phase2_Counters.png)
+![IPsec Phase 2 Counters](./IPsec_Phase2_Counters.png)
 *Figure 3: Data-plane metrics illustrating incremented encapsulation counters proving data is being actively encrypted over the secure link.*
